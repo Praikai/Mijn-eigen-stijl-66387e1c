@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+}
+#naam{
+    font-family: cursive;
+    color: red;
+}
+
+#foto{
+    border-radius: 20px;
+}
